@@ -1,0 +1,16 @@
+#viewChoice{
+    a {
+        color: #000;
+        cursor: pointer;
+    }
+    a[active] {
+        text-decoration: underline;
+    }
+}
+
+span[show] {
+    color: #000;
+}
+span{
+    color: #fff;
+}
